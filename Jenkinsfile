@@ -1,3 +1,3 @@
 // Jenkinsfile
 @Library('my-first-shared-lib') _
-welcomeJob 'Eyoooooooo'
+welcomeJob 'Eyoooooooomyg'
